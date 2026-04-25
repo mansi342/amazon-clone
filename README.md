@@ -33,9 +33,6 @@ Amazon_homepage--main/
 1. Download or clone the repository
 2. Open index.html in your browser
 
-## 🌐 Live Demo
-
-(Add your deployed link here)
 
 ## 👩‍💻 Author
 
